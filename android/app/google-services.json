@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680152858800",
+    "project_id": "smartenergy-f37f0",
+    "storage_bucket": "smartenergy-f37f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680152858800:android:ec9243d0c6c4b3619d3b75",
+        "android_client_info": {
+          "package_name": "com.projetomaker.smart_energy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680152858800-o0e2ovnfv9lvi8072vk30c107kg1hl56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATX3aNE2QgPAJUu0CM46RfseTlbAdq7cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680152858800-o0e2ovnfv9lvi8072vk30c107kg1hl56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
