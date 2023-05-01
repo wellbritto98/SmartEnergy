@@ -33,7 +33,9 @@ dependencies:
   syncfusion_flutter_core: ^21.1.41
   font_awesome_flutter: ^10.4.0
   flutter_svg: ^2.0.5
-  test_api: ^0.5.2
+  pdf: ^3.10.1
+  printing: ^5.10.3
+  
   
 
 

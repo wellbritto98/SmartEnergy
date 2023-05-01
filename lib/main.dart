@@ -5,12 +5,12 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'electronic_devices_page.dart';
+import 'dart:ui';
+import 'report_page.dart';
 
 
 
-
-void main() async{
-  runApp(MyApp());
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(MyApp());
@@ -69,7 +69,7 @@ class _MyHomePageState extends State<MyHomePage> {
 final List<Widget> _pages = [
   MeasurementPage(),
   ElectronicDevicesPage(),
-  const Text("Relatórios"),
+  ReportPage(),
 ];
 
 
